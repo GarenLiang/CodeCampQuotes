@@ -1,0 +1,31 @@
+body {
+	background: url(http://www.pixeden.com/media/k2/galleries/220/001-wood-melamine-subttle-pattern-background-pat.jpg)
+}
+
+footer {
+	margin-top: 20px;
+}
+
+.quoteWell {
+	margin-top: 140px;
+
+}
+.well {
+	background-color: transparent;
+}
+.btn-default {
+	background-color: white;
+	border-radius: 20%;
+	color: #0084b4;
+}
+
+.fa-quote-left {
+	color: #444;
+	background: #eee;
+	border: 2px solid #ccc;
+	padding: 10px 12px;
+	border-radius: 100%;
+	position: absolute;
+	top: 100px;
+	left: 40%;
+}
